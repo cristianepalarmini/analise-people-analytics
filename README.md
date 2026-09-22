@@ -31,7 +31,7 @@ Analisar dados fictícios de colaboradores para identificar padrões relacionado
 
 Dashboard desenvolvido no Power BI para acompanhamento dos principais indicadores de People Analytics.
 
-![Dashboard de People Analytics](dashboard/Dashboard%20de%20People%20Analytics.png)
+![Dashboard de People Analytics](dashboard/Dashboard%20People%20Analytics.png)
 
 ## Análises realizadas
 
