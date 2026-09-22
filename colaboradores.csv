@@ -1,0 +1,201 @@
+﻿id_colaborador,colaborador,idade,departamento,cargo,salario,tempo_empresa_anos,avaliacao_desempenho,satisfacao,horas_semanais,tipo_contrato,regiao,beneficios,situacao
+1,Flávia Ferreira,38,Marketing,Analista de Marketing,5341.25,2.1,7.5,6,37,CLT,Sul,Sim,Desligado
+2,Samuel Ramos,30,Comercial,Analista Comercial,4392.99,4.0,5.3,5,42,CLT,Centro-Oeste,Sim,Ativo
+3,Fernanda Ramos,34,Marketing,Analista de Marketing,3170.79,2.2,6.9,9,42,CLT,Centro-Oeste,Não,Ativo
+4,Samuel Lima,28,Marketing,Social Media,5916.25,1.1,8.9,8,45,PJ,Norte,Sim,Ativo
+5,Fernanda Carvalho,30,Financeiro,Coordenador Financeiro,5893.37,6.7,8.0,7,38,CLT,Centro-Oeste,Sim,Ativo
+6,Felipe Lima,38,Comercial,Vendedor,6551.44,1.7,7.2,6,40,CLT,Centro-Oeste,Sim,Ativo
+7,Camila Dias,26,Recursos Humanos,Analista de RH,2798.12,5.7,6.9,8,35,PJ,Norte,Sim,Ativo
+8,Felipe Teixeira,31,Comercial,Analista Comercial,8543.03,2.9,7.1,8,46,PJ,Centro-Oeste,Sim,Ativo
+9,Marcelo Mendes,28,Marketing,Analista de Marketing,5234.51,2.6,8.0,8,41,CLT,Nordeste,Sim,Ativo
+10,Nathan Santos,32,Recursos Humanos,Assistente de RH,2917.97,4.2,5.8,6,38,CLT,Centro-Oeste,Sim,Ativo
+11,Patrícia Ferreira,33,Financeiro,Assistente Financeiro,6680.02,2.8,4.6,10,50,CLT,Norte,Sim,Ativo
+12,Rafaela Teixeira,43,Operações,Assistente de Operações,3875.59,1.6,7.7,10,44,CLT,Nordeste,Não,Ativo
+13,Simone Martins,43,Financeiro,Analista Financeiro,5886.25,6.0,6.4,8,34,Estágio,Sudeste,Sim,Ativo
+14,Amanda Silva,34,Recursos Humanos,Assistente de RH,3391.98,5.1,9.1,8,44,CLT,Sul,Sim,Ativo
+15,Tatiane Pereira,39,Recursos Humanos,Analista de RH,4194.46,1.5,8.5,9,43,CLT,Norte,Sim,Ativo
+16,Leonardo Santos,41,Recursos Humanos,Coordenador de RH,5013.34,3.4,9.3,8,38,CLT,Nordeste,Não,Desligado
+17,Paula Mendes,32,Comercial,Vendedor,8534.07,5.4,8.2,7,38,PJ,Sul,Não,Ativo
+18,Bianca Carvalho,21,Operações,Assistente de Operações,5807.54,3.5,6.2,9,45,CLT,Sul,Não,Ativo
+19,Tatiane Santos,29,Comercial,Vendedor,2679.51,3.1,5.7,10,36,CLT,Nordeste,Sim,Ativo
+20,Henrique Carvalho,43,Operações,Coordenador de Operações,3392.78,3.5,6.3,6,42,CLT,Nordeste,Sim,Ativo
+21,João Lima,42,Financeiro,Assistente Financeiro,5302.14,2.0,6.7,10,40,CLT,Norte,Sim,Ativo
+22,Henrique Santos,31,Comercial,Coordenador Comercial,2810.15,1.8,9.9,5,42,CLT,Nordeste,Sim,Ativo
+23,Paulo Almeida,20,Financeiro,Assistente Financeiro,5272.95,1.4,9.6,5,39,CLT,Norte,Sim,Ativo
+24,Juliana Carvalho,35,Financeiro,Analista Financeiro,6659.86,4.3,8.7,5,42,PJ,Sudeste,Não,Ativo
+25,Roberta Vieira,36,Financeiro,Coordenador Financeiro,4618.16,2.0,6.9,9,42,CLT,Norte,Sim,Ativo
+26,Simone Nogueira,28,Financeiro,Analista Financeiro,5151.92,5.6,8.3,9,39,CLT,Sudeste,Sim,Ativo
+27,Juliana Teixeira,44,Tecnologia,Analista de Dados,10216.42,3.4,8.0,7,41,CLT,Centro-Oeste,Sim,Ativo
+28,Gabriela Mendes,38,Comercial,Coordenador Comercial,8832.61,2.6,7.9,8,48,CLT,Sul,Sim,Ativo
+29,Gabriel Costa,35,Comercial,Vendedor,7842.09,2.3,7.0,8,35,PJ,Nordeste,Sim,Ativo
+30,Renata Lima,22,Recursos Humanos,Analista de RH,4218.24,8.5,6.5,5,39,CLT,Norte,Não,Ativo
+31,Rafaela Teixeira,37,Tecnologia,Analista de Dados,5642.84,3.6,7.2,8,41,Estágio,Sudeste,Sim,Ativo
+32,Roberta Lima,41,Tecnologia,Analista de Sistemas,7882.36,2.4,9.8,7,45,CLT,Sul,Sim,Ativo
+33,Carla Almeida,36,Marketing,Analista de Marketing,7438.63,10.4,6.5,8,36,Estágio,Sudeste,Sim,Ativo
+34,Carla Ferreira,48,Tecnologia,Analista de Dados,9787.47,7.9,4.7,6,41,PJ,Centro-Oeste,Sim,Ativo
+35,André Barbosa,33,Comercial,Analista Comercial,8701.33,2.6,5.7,5,43,CLT,Centro-Oeste,Sim,Ativo
+36,Viviane Silva,50,Marketing,Analista de Marketing,5099.85,9.8,8.4,10,37,CLT,Sul,Sim,Desligado
+37,Camila Mendes,39,Recursos Humanos,Coordenador de RH,6439.9,2.7,8.5,10,35,PJ,Sudeste,Sim,Ativo
+38,Cristina Silva,33,Marketing,Analista de Marketing,6410.38,4.5,7.5,7,37,CLT,Norte,Sim,Ativo
+39,Gabriel Martins,37,Recursos Humanos,Analista de RH,3034.64,2.2,6.6,7,37,CLT,Sul,Sim,Ativo
+40,Bianca Pereira,40,Tecnologia,Desenvolvedor,4883.91,2.1,6.9,5,50,CLT,Centro-Oeste,Sim,Ativo
+41,Débora Mendes,31,Recursos Humanos,Coordenador de RH,6849.35,4.7,8.4,5,34,CLT,Sudeste,Não,Ativo
+42,Bruno Santos,21,Operações,Assistente de Operações,4580.26,3.9,9.2,5,51,CLT,Nordeste,Sim,Ativo
+43,Camila Moreira,29,Tecnologia,Analista de Sistemas,6170.73,8.1,6.0,7,42,CLT,Sudeste,Sim,Ativo
+44,Fernanda Souza,36,Recursos Humanos,Coordenador de RH,4549.49,3.2,6.9,8,43,PJ,Norte,Sim,Ativo
+45,Isabela Costa,26,Operações,Assistente de Operações,3515.08,1.8,5.4,8,37,CLT,Norte,Sim,Ativo
+46,Adriana Ferreira,27,Tecnologia,Desenvolvedor,10924.7,2.5,8.8,6,44,PJ,Centro-Oeste,Sim,Ativo
+47,Isabela Martins,24,Tecnologia,Analista de Sistemas,4859.25,4.4,6.9,7,40,CLT,Norte,Sim,Ativo
+48,Marcelo Ferreira,37,Operações,Coordenador de Operações,4806.1,2.4,8.6,7,46,CLT,Sudeste,Sim,Ativo
+49,Marcelo Lima,30,Tecnologia,Analista de Sistemas,3999.64,1.2,5.7,8,35,CLT,Sul,Sim,Ativo
+50,Viviane Oliveira,41,Comercial,Analista Comercial,3485.89,3.6,6.3,6,47,PJ,Nordeste,Sim,Ativo
+51,Eduardo Dias,37,Marketing,Coordenador de Marketing,6916.84,2.4,8.1,9,46,CLT,Nordeste,Sim,Ativo
+52,Carla Dias,30,Financeiro,Assistente Financeiro,6305.22,0.9,7.3,6,44,CLT,Sul,Sim,Ativo
+53,Maurício Almeida,46,Financeiro,Analista Financeiro,8075.74,9.0,7.0,6,40,Estágio,Centro-Oeste,Sim,Ativo
+54,Michele Santos,32,Comercial,Coordenador Comercial,2530.11,2.4,6.4,4,44,CLT,Centro-Oeste,Sim,Ativo
+55,Leonardo Gomes,34,Recursos Humanos,Coordenador de RH,2766.01,4.7,5.8,9,38,CLT,Sudeste,Não,Ativo
+56,Elaine Santos,27,Tecnologia,Suporte de TI,7266.46,3.0,6.8,7,38,PJ,Norte,Sim,Ativo
+57,Fernanda Gomes,39,Recursos Humanos,Assistente de RH,5218.83,6.6,6.4,6,30,PJ,Centro-Oeste,Sim,Ativo
+58,Marcelo Almeida,25,Financeiro,Coordenador Financeiro,3690.07,9.8,8.7,9,44,CLT,Nordeste,Sim,Ativo
+59,João Silva,24,Financeiro,Coordenador Financeiro,7532.25,5.8,6.5,10,37,CLT,Sul,Sim,Ativo
+60,Gabriela Barbosa,44,Comercial,Coordenador Comercial,6560.95,6.3,8.8,6,40,PJ,Norte,Sim,Ativo
+61,Laura Martins,33,Marketing,Social Media,5578.36,2.2,8.1,7,42,CLT,Sul,Sim,Desligado
+62,Michele Santos,25,Tecnologia,Desenvolvedor,10254.29,10.3,8.9,9,41,PJ,Norte,Sim,Ativo
+63,Samuel Pereira,44,Financeiro,Coordenador Financeiro,4229.16,1.6,6.5,7,50,CLT,Sul,Sim,Ativo
+64,Adriana Dias,35,Recursos Humanos,Analista de RH,4507.55,1.8,6.5,5,37,CLT,Sudeste,Sim,Ativo
+65,Patrícia Almeida,42,Marketing,Coordenador de Marketing,6202.0,2.1,7.7,9,38,CLT,Sudeste,Sim,Ativo
+66,Otávio Santos,39,Financeiro,Analista Financeiro,6759.77,2.2,8.3,5,38,PJ,Nordeste,Sim,Desligado
+67,Bianca Ramos,32,Recursos Humanos,Coordenador de RH,6761.06,4.9,8.9,7,34,CLT,Sul,Sim,Ativo
+68,André Carvalho,23,Tecnologia,Analista de Dados,4403.92,14.7,6.6,8,40,PJ,Sul,Sim,Ativo
+69,Mariana Santos,26,Tecnologia,Desenvolvedor,4077.15,1.0,8.2,5,46,CLT,Nordeste,Sim,Desligado
+70,Otávio Rocha,40,Tecnologia,Analista de Sistemas,5247.2,4.1,8.5,7,46,CLT,Nordeste,Não,Ativo
+71,Samuel Dias,28,Financeiro,Assistente Financeiro,4161.03,0.7,5.5,7,38,CLT,Sudeste,Sim,Ativo
+72,Camila Lima,26,Comercial,Vendedor,7686.93,2.7,8.3,5,44,Estágio,Nordeste,Não,Ativo
+73,Gabriela Carvalho,35,Operações,Analista de Operações,6803.44,3.1,7.0,8,43,CLT,Nordeste,Não,Ativo
+74,Isabela Martins,45,Comercial,Coordenador Comercial,3500.32,2.1,6.9,8,42,CLT,Centro-Oeste,Sim,Ativo
+75,João Silva,21,Comercial,Analista Comercial,7278.88,3.2,7.4,6,38,CLT,Norte,Sim,Ativo
+76,Rafael Rocha,34,Comercial,Analista Comercial,6213.57,6.6,8.3,10,43,CLT,Sudeste,Sim,Ativo
+77,Mateus Gomes,39,Comercial,Analista Comercial,8748.55,1.6,8.3,9,41,CLT,Sul,Sim,Ativo
+78,Flávia Gomes,32,Operações,Analista de Operações,5237.86,3.4,7.6,7,44,CLT,Sul,Sim,Ativo
+79,Juliana Santos,23,Financeiro,Coordenador Financeiro,7296.2,1.2,7.1,8,39,Estágio,Sul,Sim,Ativo
+80,André Ramos,50,Operações,Assistente de Operações,4164.62,1.8,9.0,6,41,Estágio,Norte,Sim,Ativo
+81,Rafaela Dias,24,Marketing,Social Media,7747.91,1.9,8.5,8,42,PJ,Centro-Oeste,Sim,Ativo
+82,Mateus Lima,28,Financeiro,Assistente Financeiro,6514.5,2.0,8.7,7,43,CLT,Centro-Oeste,Não,Ativo
+83,Patrícia Nogueira,33,Marketing,Coordenador de Marketing,8048.83,1.5,8.0,9,43,CLT,Nordeste,Sim,Ativo
+84,Viviane Moreira,37,Operações,Analista de Operações,5115.21,1.5,8.0,7,41,CLT,Norte,Sim,Ativo
+85,Renata Almeida,24,Marketing,Social Media,3631.76,4.0,8.2,7,37,CLT,Sul,Sim,Ativo
+86,Felipe Santos,26,Financeiro,Analista Financeiro,2989.26,3.5,7.4,6,42,CLT,Centro-Oeste,Sim,Ativo
+87,Camila Ferreira,25,Recursos Humanos,Assistente de RH,4064.3,9.5,9.3,9,43,CLT,Sul,Sim,Ativo
+88,Fernanda Vieira,47,Recursos Humanos,Coordenador de RH,2895.73,3.9,6.8,6,40,Estágio,Centro-Oeste,Sim,Ativo
+89,Eduarda Nogueira,37,Operações,Assistente de Operações,4669.07,1.1,9.0,7,38,CLT,Sudeste,Não,Ativo
+90,William Ramos,37,Financeiro,Analista Financeiro,7176.03,6.6,10.0,8,51,CLT,Sul,Sim,Ativo
+91,Diego Nogueira,37,Financeiro,Coordenador Financeiro,6350.91,5.7,7.8,10,44,CLT,Sul,Sim,Ativo
+92,William Carvalho,20,Comercial,Vendedor,5394.48,3.2,4.9,8,36,CLT,Norte,Sim,Ativo
+93,Ana Dias,36,Tecnologia,Suporte de TI,5260.06,0.7,9.5,7,45,CLT,Nordeste,Sim,Ativo
+94,Daniela Nogueira,28,Marketing,Analista de Marketing,6251.57,1.1,8.2,4,44,CLT,Centro-Oeste,Sim,Ativo
+95,Marcelo Pereira,41,Financeiro,Assistente Financeiro,3024.26,3.5,6.8,7,37,Estágio,Nordeste,Sim,Ativo
+96,Lucas Mendes,35,Comercial,Vendedor,5455.81,4.6,5.1,10,38,CLT,Nordeste,Sim,Ativo
+97,Flávia Silva,37,Financeiro,Analista Financeiro,7748.41,4.1,6.8,8,37,PJ,Sul,Sim,Ativo
+98,Marcela Martins,35,Tecnologia,Suporte de TI,8004.57,2.8,8.6,10,37,CLT,Sudeste,Não,Ativo
+99,Vanessa Souza,30,Tecnologia,Analista de Sistemas,6531.05,9.1,8.1,9,36,PJ,Norte,Sim,Ativo
+100,Isabela Carvalho,23,Operações,Assistente de Operações,5205.23,7.1,5.2,9,50,CLT,Sul,Sim,Ativo
+101,Eduardo Rocha,42,Tecnologia,Analista de Dados,10356.77,5.1,7.7,7,36,CLT,Sul,Sim,Ativo
+102,Marcos Pereira,31,Recursos Humanos,Analista de RH,2949.27,7.5,7.8,8,36,CLT,Centro-Oeste,Não,Ativo
+103,Jéssica Gomes,30,Marketing,Coordenador de Marketing,5079.46,1.7,7.8,5,41,PJ,Sudeste,Sim,Ativo
+104,Helena Mendes,35,Financeiro,Assistente Financeiro,6408.96,8.0,7.7,8,41,CLT,Sudeste,Sim,Ativo
+105,Leonardo Carvalho,34,Comercial,Vendedor,7761.94,5.4,8.1,6,43,CLT,Nordeste,Não,Ativo
+106,Eduarda Vieira,29,Comercial,Analista Comercial,3840.21,1.5,6.0,8,39,CLT,Sul,Sim,Ativo
+107,Roberta Lima,35,Operações,Analista de Operações,2990.61,6.4,8.9,8,39,CLT,Norte,Não,Ativo
+108,Lucas Carvalho,25,Recursos Humanos,Analista de RH,2940.18,1.9,6.7,7,39,CLT,Nordeste,Sim,Ativo
+109,Jéssica Ramos,39,Recursos Humanos,Assistente de RH,4879.51,5.4,9.9,7,38,Estágio,Sudeste,Sim,Ativo
+110,Wagner Vieira,43,Financeiro,Assistente Financeiro,4514.86,2.7,7.6,8,37,Estágio,Nordeste,Sim,Desligado
+111,Wagner Moreira,31,Financeiro,Coordenador Financeiro,3708.03,4.1,8.8,6,36,CLT,Centro-Oeste,Sim,Ativo
+112,Daniela Carvalho,40,Financeiro,Assistente Financeiro,8455.3,3.4,7.1,8,39,PJ,Nordeste,Sim,Ativo
+113,Roberta Pereira,43,Comercial,Coordenador Comercial,8841.47,4.9,6.5,9,43,CLT,Sudeste,Sim,Ativo
+114,Larissa Pereira,34,Operações,Assistente de Operações,3073.32,1.1,6.9,7,41,Estágio,Nordeste,Sim,Ativo
+115,Jéssica Ramos,38,Marketing,Coordenador de Marketing,6506.15,1.2,8.3,7,47,CLT,Sudeste,Sim,Ativo
+116,Viviane Gomes,27,Tecnologia,Analista de Dados,8135.39,2.2,6.1,8,38,CLT,Sul,Sim,Ativo
+117,Beatriz Vieira,28,Marketing,Coordenador de Marketing,5160.54,1.0,7.3,8,44,PJ,Norte,Sim,Desligado
+118,Bianca Costa,21,Financeiro,Coordenador Financeiro,6387.0,6.6,7.5,6,44,CLT,Sul,Sim,Ativo
+119,Gabriela Martins,23,Marketing,Social Media,5418.85,0.3,7.1,8,42,Estágio,Sudeste,Sim,Ativo
+120,Luana Nogueira,33,Comercial,Analista Comercial,6785.8,6.2,7.9,9,38,CLT,Sudeste,Sim,Ativo
+121,Isabela Teixeira,35,Comercial,Analista Comercial,3184.89,5.7,9.1,7,39,CLT,Centro-Oeste,Sim,Ativo
+122,Carlos Silva,43,Marketing,Coordenador de Marketing,2919.39,5.5,8.8,6,35,CLT,Sul,Sim,Ativo
+123,Bruno Silva,46,Marketing,Coordenador de Marketing,7064.02,3.5,7.9,8,45,CLT,Sudeste,Sim,Ativo
+124,André Santos,50,Recursos Humanos,Assistente de RH,3779.39,1.3,7.3,7,42,CLT,Nordeste,Não,Ativo
+125,Tatiane Oliveira,40,Financeiro,Analista Financeiro,6952.4,2.8,9.5,8,46,CLT,Sul,Sim,Ativo
+126,Amanda Dias,24,Comercial,Coordenador Comercial,5187.21,3.3,8.6,9,38,CLT,Sul,Sim,Ativo
+127,Carlos Rocha,35,Tecnologia,Suporte de TI,5030.27,2.9,6.6,10,43,CLT,Norte,Sim,Ativo
+128,Paulo Costa,35,Marketing,Social Media,2862.88,4.0,8.6,9,46,PJ,Norte,Sim,Ativo
+129,Camila Pereira,40,Financeiro,Assistente Financeiro,6765.02,0.7,9.3,9,39,CLT,Centro-Oeste,Sim,Ativo
+130,Flávia Ferreira,32,Financeiro,Coordenador Financeiro,6216.4,3.6,7.2,7,45,CLT,Norte,Sim,Ativo
+131,Gabriel Almeida,22,Recursos Humanos,Analista de RH,3034.14,2.4,6.5,8,36,CLT,Sudeste,Sim,Ativo
+132,Marcelo Vieira,32,Marketing,Coordenador de Marketing,4987.85,1.5,9.9,10,39,CLT,Centro-Oeste,Sim,Desligado
+133,Carlos Pereira,25,Operações,Assistente de Operações,4621.66,4.8,7.0,7,48,CLT,Nordeste,Sim,Ativo
+134,Gabriel Costa,33,Tecnologia,Analista de Dados,5620.59,5.8,6.5,6,37,PJ,Centro-Oeste,Sim,Ativo
+135,Diego Nogueira,20,Financeiro,Coordenador Financeiro,4779.86,3.6,6.2,8,41,CLT,Sudeste,Sim,Ativo
+136,Adriana Barbosa,37,Comercial,Vendedor,4698.71,1.9,8.0,7,38,CLT,Nordeste,Sim,Ativo
+137,William Mendes,32,Tecnologia,Analista de Dados,6937.25,4.4,9.8,5,41,Estágio,Sul,Não,Ativo
+138,Bianca Costa,27,Recursos Humanos,Analista de RH,3148.49,6.5,7.7,7,41,CLT,Nordeste,Sim,Ativo
+139,Daniela Gomes,45,Comercial,Coordenador Comercial,7518.08,2.7,5.7,9,41,CLT,Nordeste,Sim,Ativo
+140,Mariana Rocha,32,Recursos Humanos,Assistente de RH,3514.94,1.6,7.3,6,38,CLT,Sul,Sim,Ativo
+141,João Moreira,41,Marketing,Social Media,7965.02,2.0,8.8,7,39,CLT,Norte,Sim,Ativo
+142,Amanda Carvalho,34,Operações,Assistente de Operações,4321.7,8.2,6.3,8,40,CLT,Sudeste,Sim,Desligado
+143,Isabela Barbosa,41,Marketing,Social Media,4719.99,2.2,6.1,8,40,CLT,Nordeste,Sim,Ativo
+144,Vanessa Rocha,35,Comercial,Vendedor,4088.21,3.6,6.9,10,42,CLT,Sudeste,Não,Ativo
+145,Renata Almeida,37,Recursos Humanos,Assistente de RH,5913.27,3.5,7.8,9,37,CLT,Centro-Oeste,Sim,Ativo
+146,Daniela Barbosa,25,Tecnologia,Analista de Dados,5779.6,2.0,8.2,8,42,PJ,Nordeste,Sim,Ativo
+147,Marcelo Carvalho,37,Operações,Coordenador de Operações,2482.8,7.7,7.1,7,41,Estágio,Sul,Sim,Ativo
+148,Marcos Pereira,41,Marketing,Analista de Marketing,7774.7,2.2,8.0,6,37,CLT,Centro-Oeste,Sim,Desligado
+149,Miguel Rocha,34,Tecnologia,Analista de Dados,10079.3,5.2,9.4,7,44,CLT,Norte,Não,Ativo
+150,Priscila Santos,40,Operações,Coordenador de Operações,5430.6,1.9,6.6,6,48,CLT,Sul,Não,Desligado
+151,Sabrina Souza,33,Tecnologia,Suporte de TI,6759.47,0.2,8.4,8,46,PJ,Nordeste,Sim,Ativo
+152,Daniela Silva,26,Recursos Humanos,Coordenador de RH,4989.57,3.4,8.1,7,47,CLT,Sudeste,Sim,Ativo
+153,Nathan Santos,38,Operações,Assistente de Operações,4472.14,2.9,8.0,10,39,CLT,Norte,Sim,Ativo
+154,Rafael Gomes,30,Tecnologia,Desenvolvedor,6789.04,5.7,7.0,5,39,PJ,Sudeste,Sim,Ativo
+155,Gabriel Gomes,40,Recursos Humanos,Assistente de RH,4614.0,1.9,5.8,8,43,CLT,Nordeste,Não,Ativo
+156,Mariana Martins,30,Tecnologia,Analista de Dados,9502.66,5.0,6.8,8,46,PJ,Sul,Sim,Ativo
+157,Cristina Vieira,51,Tecnologia,Desenvolvedor,8270.72,7.2,5.5,8,44,PJ,Sul,Sim,Ativo
+158,Paula Costa,20,Recursos Humanos,Assistente de RH,5428.28,2.0,5.2,8,44,PJ,Centro-Oeste,Sim,Ativo
+159,João Costa,44,Tecnologia,Analista de Sistemas,6381.8,4.0,8.9,10,35,PJ,Nordeste,Sim,Ativo
+160,Vinícius Dias,30,Financeiro,Analista Financeiro,8195.87,3.7,7.9,4,46,CLT,Sul,Não,Desligado
+161,Cristina Pereira,30,Marketing,Social Media,5567.86,10.5,7.0,7,39,Estágio,Centro-Oeste,Sim,Ativo
+162,Rafael Ramos,20,Financeiro,Coordenador Financeiro,3461.99,2.6,7.5,8,42,PJ,Nordeste,Sim,Ativo
+163,Marcelo Santos,41,Operações,Analista de Operações,5904.75,3.8,6.2,7,46,CLT,Norte,Sim,Ativo
+164,Adriana Souza,34,Marketing,Analista de Marketing,6108.67,4.7,7.4,5,40,CLT,Norte,Sim,Ativo
+165,Sabrina Moreira,52,Marketing,Analista de Marketing,8294.96,15.0,5.8,8,43,CLT,Nordeste,Sim,Ativo
+166,Mariana Moreira,33,Marketing,Analista de Marketing,5555.42,1.2,7.9,9,35,CLT,Sudeste,Sim,Ativo
+167,Gabriel Santos,27,Tecnologia,Analista de Dados,8015.88,3.1,8.7,9,43,CLT,Sudeste,Não,Ativo
+168,William Martins,32,Recursos Humanos,Coordenador de RH,5670.3,6.5,9.9,7,45,CLT,Centro-Oeste,Sim,Ativo
+169,Fernanda Dias,42,Tecnologia,Desenvolvedor,3607.36,6.3,8.2,8,43,CLT,Nordeste,Sim,Ativo
+170,Gabriel Souza,29,Tecnologia,Suporte de TI,8923.62,4.2,8.8,5,49,CLT,Centro-Oeste,Não,Ativo
+171,André Carvalho,40,Financeiro,Analista Financeiro,3086.29,8.4,7.6,7,38,CLT,Centro-Oeste,Sim,Ativo
+172,Marcos Teixeira,39,Comercial,Coordenador Comercial,6422.71,1.1,9.2,5,30,CLT,Sul,Sim,Ativo
+173,Michele Silva,35,Marketing,Social Media,5764.97,4.7,8.2,8,39,CLT,Sul,Sim,Ativo
+174,Felipe Moreira,27,Tecnologia,Suporte de TI,9372.62,2.9,8.4,10,42,CLT,Sudeste,Sim,Ativo
+175,Simone Santos,41,Recursos Humanos,Analista de RH,6970.17,2.3,8.6,9,40,CLT,Sul,Sim,Ativo
+176,Juliana Dias,27,Comercial,Analista Comercial,8190.82,4.5,6.9,6,43,Estágio,Sul,Sim,Ativo
+177,Larissa Costa,27,Operações,Coordenador de Operações,3360.86,0.2,7.6,5,35,CLT,Sul,Sim,Ativo
+178,Felipe Vieira,42,Tecnologia,Desenvolvedor,8583.6,3.2,5.7,9,43,CLT,Nordeste,Sim,Ativo
+179,Gustavo Oliveira,26,Operações,Analista de Operações,2667.22,2.6,8.3,7,37,CLT,Norte,Não,Ativo
+180,Wagner Teixeira,35,Financeiro,Assistente Financeiro,6996.34,3.6,8.4,7,45,PJ,Nordeste,Sim,Desligado
+181,Miguel Gomes,26,Tecnologia,Suporte de TI,6258.0,1.8,7.8,7,36,CLT,Nordeste,Sim,Ativo
+182,Elaine Martins,38,Marketing,Coordenador de Marketing,6650.81,11.0,9.1,8,35,CLT,Norte,Sim,Ativo
+183,Patrícia Nogueira,40,Marketing,Analista de Marketing,8259.4,2.9,9.6,7,42,Estágio,Sul,Não,Desligado
+184,Jéssica Martins,24,Tecnologia,Desenvolvedor,7454.49,1.5,8.9,8,40,CLT,Sul,Sim,Ativo
+185,Gustavo Dias,37,Financeiro,Analista Financeiro,5169.16,0.8,7.6,9,38,CLT,Sul,Sim,Ativo
+186,João Nogueira,52,Operações,Analista de Operações,4614.13,0.8,8.0,8,31,CLT,Centro-Oeste,Sim,Ativo
+187,Eduardo Vieira,38,Financeiro,Coordenador Financeiro,2880.88,2.3,6.9,8,44,CLT,Sul,Não,Ativo
+188,Roberta Dias,48,Comercial,Vendedor,6664.0,2.9,6.5,8,47,CLT,Nordeste,Não,Desligado
+189,Larissa Oliveira,36,Financeiro,Coordenador Financeiro,7633.84,1.1,8.3,6,42,CLT,Sul,Não,Desligado
+190,Wagner Silva,23,Operações,Coordenador de Operações,6624.76,0.8,7.7,8,46,CLT,Sudeste,Sim,Ativo
+191,Isabela Souza,29,Comercial,Coordenador Comercial,2734.12,0.8,7.6,8,40,CLT,Norte,Sim,Ativo
+192,Fernanda Martins,26,Financeiro,Coordenador Financeiro,8194.8,1.0,7.4,9,40,CLT,Centro-Oeste,Sim,Ativo
+193,Camila Carvalho,46,Operações,Assistente de Operações,6130.04,3.4,8.5,6,45,CLT,Sul,Não,Ativo
+194,Rodrigo Teixeira,32,Comercial,Coordenador Comercial,5958.14,5.3,6.8,7,46,CLT,Centro-Oeste,Não,Ativo
+195,Amanda Rocha,27,Operações,Coordenador de Operações,5346.92,2.1,6.4,10,39,CLT,Centro-Oeste,Sim,Ativo
+196,Gabriela Santos,22,Tecnologia,Desenvolvedor,7568.53,2.3,7.2,5,47,CLT,Centro-Oeste,Sim,Ativo
+197,William Lima,29,Operações,Analista de Operações,2997.73,4.7,7.4,10,42,CLT,Centro-Oeste,Sim,Ativo
+198,Henrique Oliveira,30,Financeiro,Coordenador Financeiro,3095.8,6.3,7.2,6,37,CLT,Sudeste,Sim,Ativo
+199,Elaine Souza,37,Financeiro,Coordenador Financeiro,7258.38,3.7,7.9,7,45,CLT,Sudeste,Sim,Ativo
+200,Renata Costa,36,Recursos Humanos,Analista de RH,3478.35,10.1,7.6,8,47,CLT,Nordeste,Sim,Ativo
